@@ -13,9 +13,9 @@
 
 # Push changes to master
 
-1. git add file-name // or git add . (add all file)
-2. fit commit -m "commit name"
-3. git push
+1. git add file-name or git add . (adding all files) // adding which files to commit
+2. git commit -m "commit name" // store to our local git repository, ready to push
+3. git push // push to remote github repository branch // git will remember all the commits (like nodes in a string), so we can revert back to previous codes
 
 # Create a new branch
 
